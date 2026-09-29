@@ -9,7 +9,7 @@ int main()
     scanf("%f",&height);
 
     area=(base*height)/2;
-    printf("%.2f",area);
+    printf("三角形面積為:%.2f",area);
 
     return 0;
 }
